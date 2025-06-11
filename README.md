@@ -1,5 +1,5 @@
 # 👋 Hello World, I'm Arthur Vinicius (Umpa), be very welcome
-
+<img src="https://i.pinimg.com/originals/d0/19/f8/d019f8f48b87a4656474797ddd875eb1.gif" width="250px">
 Seja bem-vindo ao meu perfil GitHub!
 
 ## 👨‍🎓 Sobre mim
