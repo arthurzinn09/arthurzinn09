@@ -1,19 +1,33 @@
-# Hello World, I'm Umpa, be very welcome
-Meu nome é <strong>Arthur Vinicius</strong>, <strong>Sou técnico em Desenvolvimento de Sistemas</strong> 👨🏻‍💻 
+# 👋 Hello World, I'm Arthur Vinicius (Umpa), be very welcome
 
-- 🚀 Atualmente estou Finalizando: <strong>desenvolvimento de sistemas</strong> 
-- 💬 Pergunte-me sobre: <strong>Progamção</strong>
-- 📣 Nós podemos falar em: <strong>Português (Brasil)</strong>
+Seja bem-vindo ao meu perfil GitHub!
 
-<div align="center">
+## 👨‍🎓 Sobre mim
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+- 🎓 Tenho 16 anos e sou estudante do curso técnico de **Desenvolvimento de Sistemas** pelo **Mediotec SENAC Recife** (2º de 3 módulos).
+- 📍 Moro em Recife - PE, Brasil.
+- 🧠 Apaixonado por tecnologia, programação e aprender coisas novas!
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+## 💻 Conhecimentos Técnicos
 
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+- ⚙️ **JavaScript** (básico)
+- ⚙️ **Linguagem C** (básico)
+- ⚙️ **HTML** (básico)
+- 🗣️ **Português** (fluente)
+- 🗣️ **Inglês** (básico)
 
-</div>
+## 🧩 Habilidades Pessoais
+
+- 🧠 Experiência em Startup
+- 💬 Boa comunicação em grupo
+- 🎤 Oratória desenvolvida
+- 🤝 Trabalho em equipe
+
+## 🚀 Em busca de evolução
+
+Atualmente estou focado em aprender mais sobre desenvolvimento web, sempre praticando e buscando melhorar minhas habilidades técnicas e interpessoais.
+
+---
+
+
+
