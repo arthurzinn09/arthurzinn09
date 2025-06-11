@@ -1,9 +1,8 @@
-# [UMPALUMPA] <img src="https://media1.tenor.com/m/0h9KSreuctgAAAAC/kung-fu-panda.gif" widht="250px">
+# Hello World, I'm Umpa, be very welcome
+Meu nome é <strong>Arthur Vinicius</strong>, <strong>Sou técnico em Desenvolvimento de Sistemas</strong> 👨🏻‍💻 
 
-Eu sou <strong>Arthur Vinicius</strong>, <strong>sou linha de frente do bonde bateu caiu</strong> 👨🏻‍💻 
-
-- 🚀 Atualmente estou aprendendo: <strong>desenvolvimento de sistemas</strong> 
-- 💬 Pergunte-me sobre: <strong>jogar bola</strong>
+- 🚀 Atualmente estou Finalizando: <strong>desenvolvimento de sistemas</strong> 
+- 💬 Pergunte-me sobre: <strong>Progamção</strong>
 - 📣 Nós podemos falar em: <strong>Português (Brasil)</strong>
 
 <div align="center">
