@@ -3,7 +3,7 @@ Seja bem-vindo ao meu perfil GitHub!
 
 ## 👨‍🎓 Sobre mim
 
-- 🎓 Tenho 16 anos e sou estudante do curso técnico de **Desenvolvimento de Sistemas** pelo **Mediotec SENAC Recife** (2º de 3 módulos).
+- 🎓 Tenho 16 anos e sou estudante do curso técnico de **Desenvolvimento de Sistemas** pelo **Mediotec SENAC Recife** (3º de 3 módulos).
 - 📍 Moro em Recife - PE, Brasil.
 - 🧠 Apaixonado por tecnologia, programação e aprender coisas novas!
 
